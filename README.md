@@ -1,1 +1,1 @@
-Check out http://shopify.github.com/dashing for more information.
+Live at http://kollegorna-dashboard.herokuapp.com.
